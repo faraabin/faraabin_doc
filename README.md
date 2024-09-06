@@ -1,2 +1,2 @@
-# faraabin_doc
-این مخزن شامل مستندات فرابین در بخش ویکی است
+# مستندات فرابین
+ این مخزن شامل مستندات [فرابین](https://github.com/faraabin/faraabin_doc/wiki) است.
